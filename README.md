@@ -1,5 +1,6 @@
 ### Hi there 👋
-Currently: Student at Foon Yew High School
+~~Currently: Student at Foon Yew High School~~
+毕业料
 
 -S-UEC 2021
 
